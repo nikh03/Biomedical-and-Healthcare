@@ -11,8 +11,6 @@ By using dynamic pages we can also create profile of a patient which can be furt
 
 We can make this service free as well as paid according to the business mindset of the client.
 
-As the team contains 2nd year students so we now have basic knowledge web Dev and can be able to demonstrate beginner lev of websites but still can make practical example of this solution.
-
 At this level we can add emergency services too if any user requires it.
 
-We can give details of the doctors to so that people can be sure about the provided prescriptions
+We can give details of the doctors to so that people can be sure about the provided prescriptions.
