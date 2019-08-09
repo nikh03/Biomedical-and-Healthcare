@@ -6,4 +6,5 @@ Generally, lots of people search about symptoms and reasons for illness on googl
 This site will only provide help about basic and common diseases which can be cured easily or without lot of prescriptions.
 
 Other diseases are cured by taking proper measures and referring to a doctor.
-  For Proper Understanding visit the Project Website-'Online Doc'.
+
+For Proper Understanding visit the Project Website-'Online Doc'.
