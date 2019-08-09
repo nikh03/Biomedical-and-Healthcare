@@ -7,4 +7,4 @@ This site will only provide help about basic and common diseases which can be cu
 
 Other diseases are cured by taking proper measures and referring to a doctor.
 
-For Proper Understanding visit the Project Website-'Online Doc'.
+For Proper Understanding visit the Project Website-'Online Doc.html'.
